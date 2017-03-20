@@ -3,13 +3,13 @@ PATH
   specs:
     rulers (0.0.2)
       erubis
-      rack
+      rack (~> 1.6.5)
 
 GEM
   remote: http://rubygems.org/
   specs:
     erubis (2.7.0)
-    rack (2.0.1)
+    rack (1.6.5)
 
 PLATFORMS
   ruby
